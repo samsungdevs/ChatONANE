@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Thu Dec 05 14:59:33 SGT 2013
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=ChatONAndroidLib.jar
+manifest.mergeall=true
+manifest.mainclass=
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=<jar|FlashRuntimeExtensions.jar>
+includes=
